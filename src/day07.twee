@@ -1,0 +1,703 @@
+:: Kazu Arc - Day 7 - Morning
+day: 7
+--
+
+# Day 7
+
+## 08:22 — Morning
+
+The phone vibrates.
+
+**YumeChat — 1 new message**
+
+**Yume**
+
+Morning.
+
+**Kazu**
+
+Morning.
+
+A few seconds pass.
+
+**Yume**
+
+Yu-chan stole apple from my fingers.
+
+**Kazu**
+
+Stole?
+
+**Yume**
+
+I was holding it.
+
+**Yume**
+
+She decided that meant it was hers.
+
+[[Did she at least say thank you?->Kazu Arc - Day 7 - Morning - Bird Joke]]
+[[How are you this morning?->Kazu Arc - Day 7 - Morning - Yume]]
+[[So the bird gets your attention before I do.->Kazu Arc - Day 7 - Morning - Jealous]]
+
+:: Kazu Arc - Day 7 - Morning - Bird Joke
+--
+
+**Kazu**
+
+Did she at least say thank you?
+
+**Yume**
+
+No.
+
+A pause.
+
+**Yume**
+
+Very rude bird.
+
+**Kazu**
+
+You should file a complaint.
+
+**Yume**
+
+I'll think about it.
+
+[[Continue->Kazu Arc - Day 7 - Morning - Merge]]
+
+:: Kazu Arc - Day 7 - Morning - Yume
+--
+
+**Kazu**
+
+How are you this morning?
+
+A pause.
+
+**Yume**
+
+Okay.
+
+Another pause.
+
+**Yume**
+
+A little tired.
+
+**Kazu**
+
+Did you sleep badly?
+
+**Yume**
+
+A little.
+
+**Yume**
+
+It's fine.
+
+[[Continue->Kazu Arc - Day 7 - Morning - Merge]]
+
+:: Kazu Arc - Day 7 - Morning - Jealous
+love: love - 1
+--
+
+**Kazu**
+
+So the bird gets your attention before I do.
+
+A longer pause.
+
+**Yume**
+
+She was hungry.
+
+**Kazu**
+
+I'm joking.
+
+**Yume**
+
+Oh.
+
+**Yume**
+
+Okay.
+
+**Love -1**
+
+[[Continue->Kazu Arc - Day 7 - Morning - Merge]]
+
+:: Kazu Arc - Day 7 - Morning - Merge
+--
+
+**Yume**
+
+I have to go soon.
+
+**Kazu**
+
+Talk later?
+
+A pause.
+
+**Yume**
+
+Probably.
+
+**Kazu**
+
+I'll take probably.
+
+**Yume**
+
+:)
+
+**Yume is offline.**
+
+The chat goes quiet.
+
+* * *
+
+[[20:37 — Check YumeChat->Kazu Arc - Day 7 - Cake]]
+
+:: Kazu Arc - Day 7 - Cake
+--
+
+## 20:37 — After Dinner
+
+**YumeChat — 2 new messages**
+
+**Yume**
+
+I saved it for after dinner.
+
+**Yume**
+
+See? :)
+
+**Yume sent a photo.**
+
+<img src="images/cake.png" alt="A slice of strawberry shortcake on a white plate with a fork." style="display:block;max-width:100%;height:auto;margin:1rem auto;border-radius:12px;">
+
+*A small slice of strawberry cake sits on a white plate with a fork beside it. The photograph is framed closely, showing almost nothing beyond the plate and cake.*
+
+Kazu looks at the picture.
+
+[[You actually waited until after dinner?->Kazu Arc - Day 7 - Cake - Waited]]
+[[Do you like it?->Kazu Arc - Day 7 - Cake - Like]]
+[[Send me another picture.->Kazu Arc - Day 7 - Cake - Another]]
+
+:: Kazu Arc - Day 7 - Cake - Waited
+--
+
+**Kazu**
+
+You actually waited until after dinner?
+
+**Yume**
+
+Mostly.
+
+**Kazu**
+
+Mostly?
+
+A pause.
+
+**Yume**
+
+I tried a little earlier.
+
+**Kazu**
+
+I knew it.
+
+**Yume**
+
+Only a little.
+
+[[Continue->Kazu Arc - Day 7 - Cake - Thanks]]
+
+:: Kazu Arc - Day 7 - Cake - Like
+--
+
+**Kazu**
+
+Do you like it?
+
+A pause.
+
+**Yume**
+
+Yeah.
+
+**Yume**
+
+It's really good.
+
+**Kazu**
+
+Good.
+
+[[Continue->Kazu Arc - Day 7 - Cake - Thanks]]
+
+:: Kazu Arc - Day 7 - Cake - Another
+love: love - 1
+--
+
+**Kazu**
+
+Send me another picture.
+
+The typing indicator appears.
+
+Stops.
+
+Appears again.
+
+**Yume**
+
+Maybe later.
+
+**Kazu**
+
+Why later?
+
+A pause.
+
+**Yume**
+
+This one is okay, right?
+
+**Kazu**
+
+Yeah.
+
+**Yume**
+
+Okay.
+
+**Love -1**
+
+[[Continue->Kazu Arc - Day 7 - Cake - Thanks]]
+
+:: Kazu Arc - Day 7 - Cake - Thanks
+--
+
+A few seconds pass.
+
+**Yume**
+
+Thank you for the cake, Kazu-kun.
+
+**Kazu**
+
+You're welcome.
+
+**Yume**
+
+I wanted you to know I liked it.
+
+Kazu reads the message twice.
+
+[[You didn't have to prove it.->Kazu Arc - Day 7 - Cake - No Proof]]
+[[I'm glad you showed me.->Kazu Arc - Day 7 - Cake - Glad]]
+[[You should show me things like this more often.->Kazu Arc - Day 7 - Cake - More Often]]
+
+:: Kazu Arc - Day 7 - Cake - No Proof
+--
+
+**Kazu**
+
+You didn't have to prove it.
+
+A pause.
+
+**Yume**
+
+I know.
+
+Another pause.
+
+**Yume**
+
+I wanted to.
+
+[[Continue->Kazu Arc - Day 7 - Cafe Seed]]
+
+:: Kazu Arc - Day 7 - Cake - Glad
+--
+
+**Kazu**
+
+I'm glad you showed me.
+
+**Yume**
+
+Okay.
+
+A pause.
+
+**Yume**
+
+Good.
+
+[[Continue->Kazu Arc - Day 7 - Cafe Seed]]
+
+:: Kazu Arc - Day 7 - Cake - More Often
+--
+
+**Kazu**
+
+You should show me things like this more often.
+
+A pause.
+
+**Yume**
+
+Maybe.
+
+**Kazu**
+
+Maybe?
+
+**Yume**
+
+If I have something to show you.
+
+[[Continue->Kazu Arc - Day 7 - Cafe Seed]]
+
+:: Kazu Arc - Day 7 - Cafe Seed
+--
+
+**Kazu**
+
+What kind is it?
+
+**Yume**
+
+Strawberry.
+
+**Kazu**
+
+Good choice.
+
+**Yume**
+
+It tastes a little like the cake from that café.
+
+Kazu pauses.
+
+[[Of course. The café you told me about.->Kazu Arc - Day 7 - Cafe - Accept]]
+[[Which café?->Kazu Arc - Day 7 - Cafe - Question]]
+[[I don't remember that.->Kazu Arc - Day 7 - Cafe - Forgot]]
+
+:: Kazu Arc - Day 7 - Cafe - Accept
+love: love + 1
+--
+
+**Kazu**
+
+Of course. The café you told me about.
+
+A pause.
+
+**Yume**
+
+You remembered.
+
+**Kazu**
+
+Obviously.
+
+**Yume**
+
+:)
+
+**Love +1**
+
+[[Continue->Kazu Arc - Day 7 - Cafe - Merge]]
+
+:: Kazu Arc - Day 7 - Cafe - Question
+--
+
+**Kazu**
+
+Which café?
+
+A pause.
+
+**Yume**
+
+The one I told you about.
+
+Another pause.
+
+**Yume**
+
+The little one with the cakes.
+
+**Kazu**
+
+Oh.
+
+**Yume**
+
+It's okay if you forgot.
+
+[[Continue->Kazu Arc - Day 7 - Cafe - Merge]]
+
+:: Kazu Arc - Day 7 - Cafe - Forgot
+--
+
+**Kazu**
+
+I don't remember that.
+
+The typing indicator appears.
+
+Stops.
+
+A few seconds pass.
+
+**Yume**
+
+Oh.
+
+**Yume**
+
+I thought I told you about it.
+
+**Kazu**
+
+Maybe I forgot.
+
+A pause.
+
+**Yume**
+
+Maybe.
+
+**Yume**
+
+It's okay.
+
+[[Continue->Kazu Arc - Day 7 - Cafe - Merge]]
+
+:: Kazu Arc - Day 7 - Cafe - Merge
+--
+
+**Kazu**
+
+Was that cake better?
+
+A pause.
+
+**Yume**
+
+No.
+
+The answer comes faster than usual.
+
+**Kazu**
+
+No?
+
+Another pause.
+
+**Yume**
+
+I like this one better.
+
+**Kazu**
+
+Why?
+
+The typing indicator appears.
+
+Stops.
+
+Appears again.
+
+**Yume**
+
+It's sweeter.
+
+**Kazu**
+
+That's the reason?
+
+**Yume**
+
+Mostly.
+
+[[Because I picked it?->Kazu Arc - Day 7 - Cafe - Flirt]]
+[[Then I picked well.->Kazu Arc - Day 7 - Cafe - Picked Well]]
+[[I'm glad you like it.->Kazu Arc - Day 7 - Cafe - Simple]]
+
+:: Kazu Arc - Day 7 - Cafe - Flirt
+--
+
+**Kazu**
+
+Because I picked it?
+
+A pause.
+
+**Yume**
+
+Maybe a little.
+
+**Kazu**
+
+I'll take it.
+
+Another pause.
+
+**Yume**
+
+Okay.
+
+[[Continue->Kazu Arc - Day 7 - Evening End]]
+
+:: Kazu Arc - Day 7 - Cafe - Picked Well
+--
+
+**Kazu**
+
+Then I picked well.
+
+**Yume**
+
+You did.
+
+**Kazu**
+
+That sounded almost confident.
+
+A pause.
+
+**Yume**
+
+Don't get used to it.
+
+The typing indicator appears again almost immediately.
+
+**Yume**
+
+...Sorry.
+
+**Kazu**
+
+For what?
+
+**Yume**
+
+Nothing.
+
+[[Continue->Kazu Arc - Day 7 - Evening End]]
+
+:: Kazu Arc - Day 7 - Cafe - Simple
+--
+
+**Kazu**
+
+I'm glad you like it.
+
+**Yume**
+
+Me too.
+
+A pause.
+
+**Yume**
+
+Thank you again.
+
+[[Continue->Kazu Arc - Day 7 - Evening End]]
+
+:: Kazu Arc - Day 7 - Evening End
+--
+
+A minute passes.
+
+**Yume**
+
+I should clean this up.
+
+**Kazu**
+
+Okay.
+
+**Yume**
+
+Good night, Kazu-kun.
+
+**Kazu**
+
+Good night.
+
+**Yume**
+
+Night.
+
+**Yume is offline.**
+
+Kazu opens the photograph again.
+
+Cake.
+
+Plate.
+
+Her hand around the fork.
+
+She thought to show him.
+
+He likes that.
+
+He closes the photo.
+
+[[Continue->Kazu Arc - Day 7 - Night]]
+
+:: Kazu Arc - Day 7 - Night
+--
+
+## 22:16 — Home Screen
+
+The phone is quiet.
+
+YumeChat has no new messages.
+
+Kazu opens the conversation once more.
+
+The café is there now.
+
+Not the café itself.
+
+Just tonight's conversation about it.
+
+He scrolls past the messages.
+
+Then back to the photograph.
+
+He locks the phone.
+
+[[End Day 7->Kazu Arc - Day 7 Complete]]
+
+:: Kazu Arc - Day 7 Complete
+--
+
+# Day 7 Complete
+
+**Love: {love}**
+
+Yume sent Kazu a photograph of the cake after dinner.
+
+She said she wanted him to know she liked it.
+
+She also mentioned a café she said she'd told him about before.
+
+[[Continue to Day 8->Kazu Arc - Day 8 - Morning]]
