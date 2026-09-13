@@ -1,0 +1,1092 @@
+:: Day 1 - Morning
+love: 0
+day: 1
+--
+
+# Day 1
+
+## 07:12
+
+A phone screen lights up.
+
+There is one app Kazu checks more often than he wants to admit.
+
+**YumeChat**
+
+A private chat app he made himself.
+
+It has exactly two accounts.
+
+**Kazu — 16**
+
+**Yume — 16**
+
+Yume is the reason the app exists.
+
+Kazu likes her.
+
+He has for a while.
+
+He hasn't properly told her.
+
+Instead, he told Yume he wanted somewhere quieter for the two of them to talk.
+
+She agreed.
+
+Somehow.
+
+They aren't dating.
+
+They aren't even especially close yet.
+
+But Yume keeps replying.
+
+For Kazu, that's enough reason to hope.
+
+* * *
+
+**LOVE: {love}**
+
+**Get closer to Yume.**
+
+* * *
+
+The phone vibrates.
+
+**YumeChat — 1 new message**
+
+Kazu opens it immediately.
+
+**Yume is online.**
+
+**Yume**
+
+Morning.
+
+**Yume**
+
+You're awake early.
+
+[[Morning, Yume.->Day 1 - Morning - Normal]]
+[[I was waiting for you.->Day 1 - Morning - Waiting]]
+[[Morning. You look cute today.->Day 1 - Morning - Cute]]
+
+:: Day 1 - Morning - Normal
+--
+
+**Kazu**
+
+Morning, Yume.
+
+**Yume**
+
+Morning :)
+
+[[Continue->Day 1 - Morning - Sleep]]
+
+
+:: Day 1 - Morning - Waiting
+--
+
+**Kazu**
+
+I was waiting for you.
+
+**Yume**
+
+At seven in the morning?
+
+**Kazu**
+
+Maybe.
+
+**Yume**
+
+You're weird, Kazu-kun.
+
+[[Continue->Day 1 - Morning - Sleep]]
+
+
+:: Day 1 - Morning - Cute
+--
+
+**Kazu**
+
+Morning. You look cute today.
+
+**Yume**
+
+You haven't even seen me today.
+
+**Kazu**
+
+I don't need to.
+
+**Yume**
+
+...
+
+**Yume**
+
+It's too early for this.
+
+[[Continue->Day 1 - Morning - Sleep]]
+
+
+:: Day 1 - Morning - Sleep
+--
+
+**Yume**
+
+Did you sleep okay?
+
+[[Yeah. You?->Day 1 - Morning - Sleep Good]]
+[[Not really.->Day 1 - Morning - Sleep Bad]]
+[[Better now that you're here.->Day 1 - Morning - Sleep Flirt]]
+
+
+:: Day 1 - Morning - Sleep Good
+--
+
+**Kazu**
+
+Yeah. You?
+
+**Yume**
+
+Mostly.
+
+**Yume**
+
+I stayed up later than I should have.
+
+**Kazu**
+
+Doing what?
+
+**Yume**
+
+Nothing interesting.
+
+**Yume**
+
+Just couldn't sleep.
+
+[[Continue->Day 1 - Morning - Leaving]]
+
+
+:: Day 1 - Morning - Sleep Bad
+--
+
+**Kazu**
+
+Not really.
+
+**Yume**
+
+Same.
+
+**Yume**
+
+Maybe we're both terrible at sleeping.
+
+[[Continue->Day 1 - Morning - Leaving]]
+
+
+:: Day 1 - Morning - Sleep Flirt
+--
+
+**Kazu**
+
+Better now that you're here.
+
+**Yume**
+
+...
+
+**Yume**
+
+Do you practice these somewhere?
+
+**Kazu**
+
+No.
+
+**Yume**
+
+Maybe you should.
+
+[[Continue->Day 1 - Morning - Leaving]]
+
+
+:: Day 1 - Morning - Leaving
+--
+
+A few seconds pass.
+
+**Yume**
+
+I should get ready.
+
+**Yume**
+
+Talk later?
+
+[[Sure. Have a good morning.->Day 1 - Morning - Goodbye Kind]]
+[[Already leaving me?->Day 1 - Morning - Goodbye Tease]]
+[[Don't be late.->Day 1 - Morning - Goodbye Late]]
+
+
+:: Day 1 - Morning - Goodbye Kind
+--
+
+**Kazu**
+
+Sure. Have a good morning.
+
+**Yume**
+
+You too.
+
+[[Put the phone away->Day 1 - Morning End]]
+
+
+:: Day 1 - Morning - Goodbye Tease
+--
+
+**Kazu**
+
+Already leaving me?
+
+**Yume**
+
+Kazu-kun.
+
+**Yume**
+
+We've been talking for five minutes.
+
+**Kazu**
+
+That's five good minutes.
+
+**Yume**
+
+Bye 😂
+
+[[Put the phone away->Day 1 - Morning End]]
+
+
+:: Day 1 - Morning - Goodbye Late
+--
+
+**Kazu**
+
+Don't be late.
+
+**Yume**
+
+Yes, mom.
+
+[[Put the phone away->Day 1 - Morning End]]
+
+
+:: Day 1 - Morning End
+--
+
+**Yume is offline.**
+
+The screen goes quiet.
+
+Kazu returns to the home screen.
+
+Messages.
+
+Camera.
+
+Settings.
+
+iChat.
+
+And YumeChat.
+
+No new notification.
+
+He checks YumeChat once anyway.
+
+Still nothing.
+
+Kazu locks the phone.
+
+* * *
+
+Time passes.
+
+[[12:18 — Check YumeChat->Day 1 - Lunch]]
+
+
+:: Day 1 - Lunch
+--
+
+## 12:18 — Lunch
+
+The phone vibrates.
+
+**YumeChat — 1 new message**
+
+**Yume**
+
+Lunch?
+
+[[Yeah. You?->Day 1 - Lunch - Normal]]
+[[You messaged me just to ask about lunch?->Day 1 - Lunch - Tease]]
+[[Were you thinking about me?->Day 1 - Lunch - Flirt]]
+
+
+:: Day 1 - Lunch - Normal
+--
+
+**Kazu**
+
+Yeah. You?
+
+**Yume**
+
+Trying to decide.
+
+**Yume**
+
+I don't know what I want.
+
+[[Continue->Day 1 - Lunch - Food]]
+
+
+:: Day 1 - Lunch - Tease
+--
+
+**Kazu**
+
+You messaged me just to ask about lunch?
+
+**Yume**
+
+I can stop.
+
+**Kazu**
+
+No no no.
+
+**Yume**
+
+Thought so.
+
+[[Continue->Day 1 - Lunch - Food]]
+
+
+:: Day 1 - Lunch - Flirt
+--
+
+**Kazu**
+
+Were you thinking about me?
+
+**Yume**
+
+I was thinking about food.
+
+**Kazu**
+
+Close enough.
+
+**Yume**
+
+Not even slightly.
+
+[[Continue->Day 1 - Lunch - Food]]
+
+
+:: Day 1 - Lunch - Food
+--
+
+**Yume**
+
+I'm thinking noodles.
+
+**Yume**
+
+Or maybe rice.
+
+[[Noodles.->Day 1 - Lunch - Noodles]]
+[[Rice. Definitely.->Day 1 - Lunch - Rice]]
+[[Whichever one you actually want.->Day 1 - Lunch - Thoughtful]]
+
+
+:: Day 1 - Lunch - Noodles
+--
+
+**Kazu**
+
+Noodles.
+
+**Yume**
+
+That was fast.
+
+**Kazu**
+
+You asked.
+
+**Yume**
+
+Fair.
+
+[[Continue->Day 1 - Lunch - Decision]]
+
+
+:: Day 1 - Lunch - Rice
+--
+
+**Kazu**
+
+Rice. Definitely.
+
+**Yume**
+
+Why definitely?
+
+**Kazu**
+
+I have strong opinions about lunch.
+
+**Yume**
+
+Apparently.
+
+[[Continue->Day 1 - Lunch - Decision]]
+
+
+:: Day 1 - Lunch - Thoughtful
+love: love + 1
+--
+
+**Kazu**
+
+Whichever one you actually want.
+
+**Yume**
+
+That's not very helpful.
+
+**Kazu**
+
+You already know which one you want.
+
+**Yume**
+
+...
+
+**Yume**
+
+Maybe.
+
+**Kazu**
+
+Which one?
+
+**Yume**
+
+Noodles.
+
+**Kazu**
+
+See?
+
+**Yume**
+
+Okay, okay.
+
+**Love +1**
+
+[[Continue->Day 1 - Lunch - Decision]]
+
+
+:: Day 1 - Lunch - Decision
+--
+
+**Yume**
+
+Noodles it is.
+
+**Yume**
+
+If they're bad I'm blaming you.
+
+[[That's unfair.->Day 1 - Lunch - Unfair]]
+[[I'll take responsibility.->Day 1 - Lunch - Brave]]
+[[Then you owe me if they're good.->Day 1 - Lunch - Owe]]
+
+
+:: Day 1 - Lunch - Unfair
+--
+
+**Kazu**
+
+That's unfair.
+
+**Yume**
+
+Life is unfair.
+
+[[Continue->Day 1 - Lunch End]]
+
+
+:: Day 1 - Lunch - Brave
+--
+
+**Kazu**
+
+I'll take responsibility.
+
+**Yume**
+
+Very brave.
+
+[[Continue->Day 1 - Lunch End]]
+
+
+:: Day 1 - Lunch - Owe
+--
+
+**Kazu**
+
+Then you owe me if they're good.
+
+**Yume**
+
+I owe you nothing.
+
+**Yume**
+
+😂
+
+[[Continue->Day 1 - Lunch End]]
+
+
+:: Day 1 - Lunch End
+--
+
+**Yume is offline.**
+
+* * *
+
+The afternoon passes.
+
+[[17:34 — Check YumeChat->Day 1 - Evening]]
+
+
+:: Day 1 - Evening
+--
+
+## 17:34 — Evening
+
+**YumeChat — 1 new message**
+
+**Yume**
+
+I'm tired.
+
+[[Long day?->Day 1 - Evening - Long]]
+[[Go sleep.->Day 1 - Evening - Sleep]]
+[[I can make it better.->Day 1 - Evening - Better]]
+
+
+:: Day 1 - Evening - Long
+--
+
+**Kazu**
+
+Long day?
+
+**Yume**
+
+Kind of.
+
+**Yume**
+
+Nothing terrible.
+
+**Yume**
+
+Just one of those days.
+
+[[Continue->Day 1 - Evening - Question]]
+
+
+:: Day 1 - Evening - Sleep
+--
+
+**Kazu**
+
+Go sleep.
+
+**Yume**
+
+It's 5:30.
+
+**Kazu**
+
+And?
+
+**Yume**
+
+And I don't want to wake up at midnight.
+
+[[Continue->Day 1 - Evening - Question]]
+
+
+:: Day 1 - Evening - Better
+--
+
+**Kazu**
+
+I can make it better.
+
+**Yume**
+
+Can you?
+
+**Kazu**
+
+Probably.
+
+**Yume**
+
+That's not very convincing.
+
+[[Continue->Day 1 - Evening - Question]]
+
+
+:: Day 1 - Evening - Question
+--
+
+**Yume**
+
+What do you do when you're tired of everything?
+
+[[Distract myself. Games, music, whatever.->Day 1 - Evening - Distract]]
+[[Usually I talk to someone.->Day 1 - Evening - Talk]]
+[[You can complain to me if you want.->Day 1 - Evening - Listen]]
+
+
+:: Day 1 - Evening - Distract
+--
+
+**Kazu**
+
+Distract myself.
+
+**Kazu**
+
+Games. Music. Whatever works.
+
+**Yume**
+
+That's probably healthier than what I do.
+
+**Kazu**
+
+What do you do?
+
+**Yume**
+
+Complain.
+
+**Kazu**
+
+You're doing great then.
+
+**Yume**
+
+Shut up 😂
+
+[[Continue->Day 1 - Evening - Leaving]]
+
+
+:: Day 1 - Evening - Talk
+--
+
+**Kazu**
+
+Usually I talk to someone.
+
+**Yume**
+
+Does it help?
+
+**Kazu**
+
+Sometimes.
+
+**Kazu**
+
+Depends who's listening.
+
+**Yume**
+
+Hmm.
+
+[[Continue->Day 1 - Evening - Leaving]]
+
+
+:: Day 1 - Evening - Listen
+love: love + 1
+--
+
+**Kazu**
+
+You can complain to me if you want.
+
+**Yume**
+
+About what?
+
+**Kazu**
+
+Anything.
+
+**Yume**
+
+You might regret saying that.
+
+**Kazu**
+
+Try me.
+
+A pause.
+
+**Yume**
+
+Maybe another time.
+
+**Yume**
+
+But thanks.
+
+**Love +1**
+
+[[Continue->Day 1 - Evening - Leaving]]
+
+
+:: Day 1 - Evening - Leaving
+--
+
+**Yume**
+
+Anyway.
+
+**Yume**
+
+I'm going to disappear for a while.
+
+**Kazu**
+
+Okay.
+
+**Yume**
+
+Don't sound so devastated.
+
+[[I'll survive somehow.->Day 1 - Evening - Survive]]
+[[I'll miss you terribly.->Day 1 - Evening - Miss]]
+[[See you later, Yume.->Day 1 - Evening - Later]]
+
+
+:: Day 1 - Evening - Survive
+--
+
+**Kazu**
+
+I'll survive somehow.
+
+**Yume**
+
+Be strong.
+
+[[Continue->Day 1 - Evening End]]
+
+
+:: Day 1 - Evening - Miss
+--
+
+**Kazu**
+
+I'll miss you terribly.
+
+**Yume**
+
+You'll survive.
+
+[[Continue->Day 1 - Evening End]]
+
+
+:: Day 1 - Evening - Later
+--
+
+**Kazu**
+
+See you later, Yume.
+
+**Yume**
+
+Later, Kazu-kun.
+
+[[Continue->Day 1 - Evening End]]
+
+
+:: Day 1 - Evening End
+--
+
+**Yume is offline.**
+
+* * *
+
+The phone stays quiet for a while.
+
+[[22:06 — Check YumeChat->Day 1 - Night]]
+
+
+:: Day 1 - Night
+--
+
+## 22:06 — Night
+
+The phone vibrates.
+
+**YumeChat — 1 new message**
+
+**Yume**
+
+Still awake?
+
+[[Yeah.->Day 1 - Night - Yeah]]
+[[I thought you disappeared.->Day 1 - Night - Disappeared]]
+[[Waiting for you.->Day 1 - Night - Waiting]]
+
+
+:: Day 1 - Night - Yeah
+--
+
+**Kazu**
+
+Yeah.
+
+**Yume**
+
+Me too.
+
+[[Continue->Day 1 - Night - Nice]]
+
+
+:: Day 1 - Night - Disappeared
+--
+
+**Kazu**
+
+I thought you disappeared.
+
+**Yume**
+
+I came back.
+
+[[Continue->Day 1 - Night - Nice]]
+
+
+:: Day 1 - Night - Waiting
+--
+
+**Kazu**
+
+Waiting for you.
+
+**Yume**
+
+You say things like that too easily.
+
+[[Continue->Day 1 - Night - Nice]]
+
+
+:: Day 1 - Night - Nice
+--
+
+**Yume**
+
+Today was nice.
+
+**Kazu**
+
+The noodles?
+
+**Yume**
+
+They were okay.
+
+**Kazu**
+
+Only okay?
+
+**Yume**
+
+Don't get emotional.
+
+A short pause.
+
+**Yume**
+
+I meant talking.
+
+[[I liked talking to you too.->Day 1 - Night - Like]]
+[[We should do it again tomorrow.->Day 1 - Night - Tomorrow]]
+[[So you like me already?->Day 1 - Night - Push]]
+
+
+:: Day 1 - Night - Like
+--
+
+**Kazu**
+
+I liked talking to you too.
+
+**Yume**
+
+:)
+
+[[Continue->Day 1 - Night - Goodnight]]
+
+
+:: Day 1 - Night - Tomorrow
+--
+
+**Kazu**
+
+We should do it again tomorrow.
+
+**Yume**
+
+Probably.
+
+**Kazu**
+
+Probably?
+
+**Yume**
+
+Don't get greedy.
+
+[[Continue->Day 1 - Night - Goodnight]]
+
+
+:: Day 1 - Night - Push
+love: love - 1
+--
+
+**Kazu**
+
+So you like me already?
+
+A pause.
+
+**Yume**
+
+I said talking to you was nice.
+
+**Yume**
+
+Don't rewrite the sentence.
+
+**Love -1**
+
+[[Continue->Day 1 - Night - Goodnight]]
+
+
+:: Day 1 - Night - Goodnight
+--
+
+**Yume**
+
+Good night, Kazu-kun.
+
+[[Good night, Yume.->Day 1 - Night - Goodnight Normal]]
+[[Sweet dreams.->Day 1 - Night - Sweet]]
+[[Dream about me.->Day 1 - Night - Dream]]
+
+
+:: Day 1 - Night - Goodnight Normal
+--
+
+**Kazu**
+
+Good night, Yume.
+
+**Yume**
+
+Night.
+
+[[End Day 1->Day 1 Complete]]
+
+
+:: Day 1 - Night - Sweet
+--
+
+**Kazu**
+
+Sweet dreams.
+
+**Yume**
+
+You too.
+
+[[End Day 1->Day 1 Complete]]
+
+
+:: Day 1 - Night - Dream
+--
+
+**Kazu**
+
+Dream about me.
+
+A pause.
+
+**Yume**
+
+Good night, Kazu-kun.
+
+[[End Day 1->Day 1 Complete]]
+
+
+:: Day 1 Complete
+--
+
+# Day 1 Complete
+
+The screen goes quiet.
+
+**Love: {love}**
+
+Kazu knows Yume doesn't like him the way he likes her.
+
+Not yet, anyway.
+
+She brushes off his flirting.
+
+She leaves when she wants to.
+
+She doesn't owe him anything.
+
+But she came back tonight just to talk.
+
+For now, that's enough.
+
+Maybe he has a chance.
+
+[[Continue to Day 2->Day 2 - Morning]]

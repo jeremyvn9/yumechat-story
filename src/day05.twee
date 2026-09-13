@@ -1,0 +1,948 @@
+:: Kazu Arc - Day 5 - Morning
+day: 5
+--
+# Day 5
+
+## 08:34 — Morning
+
+**YumeChat — 2 new messages**
+
+**Yume**
+
+She's better today.
+
+**Yume**
+
+Still restless, but better.
+
+[[Yu-chan?->Kazu Arc - Day 5 - Morning - Yuchan]]
+[[Did she finally sleep?->Kazu Arc - Day 5 - Morning - Sleep]]
+[[Good. Now you can talk to me again.->Kazu Arc - Day 5 - Morning - Attention]]
+
+:: Kazu Arc - Day 5 - Morning - Yuchan
+--
+**Kazu**
+
+Yu-chan?
+
+**Yume**
+
+Yeah.
+
+**Kazu**
+
+How is she?
+
+**Yume**
+
+Quieter.
+
+**Yume**
+
+She's watching me now instead of the bars.
+
+[[Continue->Kazu Arc - Day 5 - Morning - Memory]]
+
+:: Kazu Arc - Day 5 - Morning - Sleep
+--
+**Kazu**
+
+Did she finally sleep?
+
+**Yume**
+
+Eventually.
+
+**Yume**
+
+I think we both did.
+
+**Kazu**
+
+Good.
+
+[[Continue->Kazu Arc - Day 5 - Morning - Memory]]
+
+:: Kazu Arc - Day 5 - Morning - Attention
+love: love - 1
+--
+**Kazu**
+
+Good.
+
+**Kazu**
+
+Now you can talk to me again.
+
+A long pause.
+
+**Yume**
+
+...Sorry.
+
+**Kazu**
+
+For what?
+
+**Yume**
+
+I was with her most of yesterday.
+
+**Kazu**
+
+I know.
+
+Another pause.
+
+**Yume**
+
+Okay.
+
+**Love -1**
+
+[[Continue->Kazu Arc - Day 5 - Morning - Memory]]
+
+:: Kazu Arc - Day 5 - Morning - Memory
+--
+**Yume**
+
+I gave her something she likes.
+
+A pause.
+
+**Yume**
+
+You remember what it is, right?
+
+[[Apple.->Kazu Arc - Day 5 - Memory - Apple]]
+[[Sunflower seeds.->Kazu Arc - Day 5 - Memory - Seeds]]
+[[Strawberry.->Kazu Arc - Day 5 - Memory - Strawberry]]
+[[I don't remember.->Kazu Arc - Day 5 - Memory - Forgot]]
+
+:: Kazu Arc - Day 5 - Memory - Apple
+love: love + 1
+--
+**Kazu**
+
+Apple.
+
+**Yume**
+
+That's right.
+
+**Kazu**
+
+Tiny pieces.
+
+A quick reply:
+
+**Yume**
+
+Okay, show-off.
+
+**Kazu**
+
+I earned this.
+
+**Yume**
+
+One point for Kazu-kun.
+
+**Love +1**
+
+[[Continue->Kazu Arc - Day 5 - Morning - After Memory]]
+
+:: Kazu Arc - Day 5 - Memory - Seeds
+--
+**Kazu**
+
+Sunflower seeds.
+
+**Yume**
+
+No.
+
+A beat.
+
+**Yume**
+
+Apple.
+
+**Yume**
+
+Tiny pieces.
+
+[[Continue->Kazu Arc - Day 5 - Morning - After Memory]]
+
+:: Kazu Arc - Day 5 - Memory - Strawberry
+--
+**Kazu**
+
+Strawberry.
+
+**Yume**
+
+No.
+
+**Kazu**
+
+Apple?
+
+**Yume**
+
+Now you remember.
+
+[[Continue->Kazu Arc - Day 5 - Morning - After Memory]]
+
+:: Kazu Arc - Day 5 - Memory - Forgot
+--
+**Kazu**
+
+I don't remember.
+
+A pause.
+
+**Yume**
+
+It's okay.
+
+**Yume**
+
+Apple.
+
+**Yume**
+
+I said tiny pieces yesterday.
+
+[[Continue->Kazu Arc - Day 5 - Morning - After Memory]]
+
+:: Kazu Arc - Day 5 - Morning - After Memory
+--
+**Yume**
+
+She ate some again this morning.
+
+**Kazu**
+
+And the bars?
+
+**Yume**
+
+Not as much.
+
+**Yume**
+
+She's mostly just watching me now.
+
+**Kazu**
+
+You've been watching her too?
+
+**Yume**
+
+Yeah.
+
+A pause.
+
+**Yume**
+
+I should go for a bit.
+
+**Kazu**
+
+Talk later?
+
+**Yume**
+
+Probably.
+
+**Yume is offline.**
+
+Kazu leaves the chat open for a few seconds.
+
+Then another notification appears.
+
+[[Continue->Kazu Arc - Day 5 - Delivery]]
+
+:: Kazu Arc - Day 5 - Delivery
+--
+## 11:52 — Notification
+
+**DELIVERY**
+
+Your grocery order has arrived.
+
+One item was substituted.
+
+Kazu opens the order.
+
+He stares at the replacement.
+
+[[Accept defeat.->Kazu Arc - Day 5 - Delivery - Accept]]
+[[Complain to Yume.->Kazu Arc - Day 5 - Delivery - Yume]]
+[[Complain to Mori.->Kazu Arc - Day 5 - Delivery - Mori]]
+
+:: Kazu Arc - Day 5 - Delivery - Accept
+--
+Kazu puts the groceries away.
+
+The substitute is not what he ordered.
+
+It is, technically, edible.
+
+He decides that is enough.
+
+[[Continue->Kazu Arc - Day 5 - Noon]]
+
+:: Kazu Arc - Day 5 - Delivery - Yume
+--
+Kazu opens YumeChat.
+
+**Kazu**
+
+They substituted my groceries again.
+
+A minute passes.
+
+No reply.
+
+He checks whether Yume is online.
+
+She is not.
+
+Kazu locks the phone harder than necessary.
+
+[[Continue->Kazu Arc - Day 5 - Noon]]
+
+:: Kazu Arc - Day 5 - Delivery - Mori
+--
+Kazu opens iChat.
+
+**Kazu**
+
+They substituted my groceries again.
+
+**Mori**
+
+why are you telling me
+
+**Kazu**
+
+I need someone to be angry with me
+
+**Mori**
+
+i'm busy being angry about page 6
+
+**Kazu**
+
+Fair.
+
+[[Continue->Kazu Arc - Day 5 - Noon]]
+
+:: Kazu Arc - Day 5 - Noon
+--
+## 13:26 — YumeChat
+
+**YumeChat — 1 new message**
+
+**Yume**
+
+Sorry.
+
+**Yume**
+
+I wasn't looking at my phone.
+
+**Yume**
+
+What did they substitute?
+
+[[Something unforgivable.->Kazu Arc - Day 5 - Noon - Joke]]
+[[The wrong noodles.->Kazu Arc - Day 5 - Noon - Noodles]]
+[[You disappeared and that's what you ask me?->Kazu Arc - Day 5 - Noon - Accuse]]
+
+:: Kazu Arc - Day 5 - Noon - Joke
+--
+**Kazu**
+
+Something unforgivable.
+
+**Yume**
+
+That specific, huh?
+
+**Kazu**
+
+I need time to process it.
+
+**Yume**
+
+Thoughts and prayers.
+
+The reply is immediate.
+
+[[Continue->Kazu Arc - Day 5 - Noon - Merge]]
+
+:: Kazu Arc - Day 5 - Noon - Noodles
+--
+**Kazu**
+
+The wrong noodles.
+
+**Yume**
+
+Tragic.
+
+**Kazu**
+
+Thank you for respecting my grief.
+
+**Yume**
+
+I'm trying very hard not to laugh.
+
+[[Continue->Kazu Arc - Day 5 - Noon - Merge]]
+
+:: Kazu Arc - Day 5 - Noon - Accuse
+love: love - 1
+--
+**Kazu**
+
+You disappeared and that's what you ask me?
+
+A long pause.
+
+**Yume**
+
+Sorry.
+
+**Kazu**
+
+For hours.
+
+Another pause.
+
+**Yume**
+
+I said I had to go.
+
+Then, quickly:
+
+**Yume**
+
+But I'm here now.
+
+**Love -1**
+
+[[Continue->Kazu Arc - Day 5 - Noon - Merge]]
+
+:: Kazu Arc - Day 5 - Noon - Merge
+--
+A few messages later:
+
+**Yume**
+
+You live like an old man.
+
+**Kazu**
+
+Rude.
+
+**Yume**
+
+Groceries.
+
+**Yume**
+
+Complaining about noodles.
+
+**Yume**
+
+Work.
+
+**Kazu**
+
+You forgot my charming personality.
+
+A pause.
+
+**Yume**
+
+I didn't forget it.
+
+**Yume**
+
+I was being polite.
+
+Kazu stares at the message.
+
+Then laughs.
+
+For a moment, so does she.
+
+[[Continue->Kazu Arc - Day 5 - Afternoon]]
+
+:: Kazu Arc - Day 5 - Afternoon
+--
+## 16:48 — Afternoon
+
+**Yume**
+
+Can I ask you something?
+
+**Kazu**
+
+Sure.
+
+**Yume**
+
+Which one is better?
+
+**Yume sent two photos.**
+
+The same mug.
+
+The same table.
+
+Two different angles.
+
+In the first, the mug sits neatly in the center.
+
+In the second, it is pushed toward the edge of the frame, leaving more empty space around it.
+
+**Yume**
+
+First or second?
+
+[[First.->Kazu Arc - Day 5 - Photo - First]]
+[[Second.->Kazu Arc - Day 5 - Photo - Second]]
+[[They're basically the same.->Kazu Arc - Day 5 - Photo - Same]]
+
+:: Kazu Arc - Day 5 - Photo - First
+--
+**Kazu**
+
+First.
+
+**Yume**
+
+Why?
+
+[[It feels calmer.->Kazu Arc - Day 5 - Photo - First Calm]]
+[[Cleaner.->Kazu Arc - Day 5 - Photo - First Clean]]
+
+:: Kazu Arc - Day 5 - Photo - First Calm
+love: love + 1
+--
+**Kazu**
+
+It feels calmer.
+
+A pause.
+
+**Yume**
+
+That's what I thought too.
+
+**Yume**
+
+The other one feels like something is missing.
+
+**Kazu**
+
+Maybe the empty space makes you look for something.
+
+A pause.
+
+**Yume**
+
+...Maybe.
+
+**Love +1**
+
+[[Continue->Kazu Arc - Day 5 - Photo - End]]
+
+:: Kazu Arc - Day 5 - Photo - First Clean
+--
+**Kazu**
+
+Cleaner.
+
+**Yume**
+
+Yeah.
+
+**Yume**
+
+I think that's why I like it.
+
+[[Continue->Kazu Arc - Day 5 - Photo - End]]
+
+:: Kazu Arc - Day 5 - Photo - Second
+--
+**Kazu**
+
+Second.
+
+**Yume**
+
+Really?
+
+**Kazu**
+
+Yeah. The empty space works.
+
+A pause.
+
+**Yume**
+
+What do you mean?
+
+**Kazu**
+
+It makes you wonder what's outside the frame.
+
+A longer pause.
+
+**Yume**
+
+I like that.
+
+[[Continue->Kazu Arc - Day 5 - Photo - End]]
+
+:: Kazu Arc - Day 5 - Photo - Same
+--
+**Kazu**
+
+They're basically the same.
+
+A pause.
+
+**Yume**
+
+Oh.
+
+**Kazu**
+
+Same mug. Same table.
+
+Another pause.
+
+**Yume**
+
+I thought they felt different.
+
+**Kazu**
+
+Maybe they do.
+
+**Yume**
+
+It's okay.
+
+[[Continue->Kazu Arc - Day 5 - Photo - End]]
+
+:: Kazu Arc - Day 5 - Photo - End
+--
+**Yume**
+
+I think I'll keep both.
+
+**Kazu**
+
+Then why ask me?
+
+A pause.
+
+**Yume**
+
+I wanted to know what you'd choose.
+
+Kazu reads the sentence twice.
+
+Then:
+
+**Yume**
+
+Yu-chan's awake again.
+
+The small smile on Kazu's face disappears.
+
+[[Continue->Kazu Arc - Day 5 - Evening]]
+
+:: Kazu Arc - Day 5 - Evening
+--
+## 19:39 — Evening
+
+**Yume**
+
+She's not biting the bars anymore.
+
+**Kazu**
+
+That's good.
+
+**Yume**
+
+She's just sitting near the door.
+
+[[Maybe she wants out.->Kazu Arc - Day 5 - Evening - Out]]
+[[At least she's calmer.->Kazu Arc - Day 5 - Evening - Calm]]
+[[Can we talk about something besides the bird?->Kazu Arc - Day 5 - Evening - Bird]]
+
+:: Kazu Arc - Day 5 - Evening - Out
+--
+**Kazu**
+
+Maybe she wants out.
+
+A pause.
+
+**Yume**
+
+Probably.
+
+**Kazu**
+
+She will eventually.
+
+A longer pause.
+
+**Yume**
+
+Yeah.
+
+[[Continue->Kazu Arc - Day 5 - Evening - Merge]]
+
+:: Kazu Arc - Day 5 - Evening - Calm
+--
+**Kazu**
+
+At least she's calmer.
+
+**Yume**
+
+Yeah.
+
+**Yume**
+
+I think she just wants to go outside.
+
+**Kazu**
+
+She will eventually.
+
+A pause.
+
+**Yume**
+
+I hope so.
+
+[[Continue->Kazu Arc - Day 5 - Evening - Merge]]
+
+:: Kazu Arc - Day 5 - Evening - Bird
+love: love - 1
+--
+**Kazu**
+
+Can we talk about something besides the bird?
+
+A long pause.
+
+**Yume**
+
+Oh.
+
+Another pause.
+
+**Yume**
+
+Sorry.
+
+**Kazu**
+
+I didn't mean—
+
+**Yume**
+
+It's okay.
+
+**Yume**
+
+What do you want to talk about?
+
+**Love -1**
+
+[[Continue->Kazu Arc - Day 5 - Evening - Merge]]
+
+:: Kazu Arc - Day 5 - Evening - Merge
+--
+A few minutes pass.
+
+**Yume**
+
+She's eating now.
+
+**Kazu**
+
+Apple?
+
+**Yume**
+
+Tiny pieces.
+
+**Kazu**
+
+See? I remembered.
+
+A quick reply:
+
+**Yume**
+
+You already got credit for that today.
+
+**Kazu**
+
+I want more credit.
+
+**Yume**
+
+Greedy.
+
+Kazu looks at the word and smiles.
+
+[[Continue->Kazu Arc - Day 5 - Night]]
+
+:: Kazu Arc - Day 5 - Night
+--
+## 22:18 — Night
+
+**Yume**
+
+I'm going to sleep early.
+
+[[Okay. Good night.->Kazu Arc - Day 5 - Night - Good]]
+[[Already?->Kazu Arc - Day 5 - Night - Already]]
+[[Stay a little longer.->Kazu Arc - Day 5 - Night - Stay]]
+
+:: Kazu Arc - Day 5 - Night - Good
+--
+**Kazu**
+
+Okay. Good night.
+
+A pause.
+
+**Yume**
+
+Good night, Kazu-kun.
+
+[[Continue->Kazu Arc - Day 5 - Night - End]]
+
+:: Kazu Arc - Day 5 - Night - Already
+--
+**Kazu**
+
+Already?
+
+**Yume**
+
+I'm tired.
+
+**Kazu**
+
+Okay.
+
+A pause.
+
+**Yume**
+
+Good night.
+
+[[Continue->Kazu Arc - Day 5 - Night - End]]
+
+:: Kazu Arc - Day 5 - Night - Stay
+love: love - 1
+--
+**Kazu**
+
+Stay a little longer.
+
+A pause.
+
+**Yume**
+
+I'm really tired.
+
+**Kazu**
+
+Ten minutes.
+
+A long pause.
+
+**Yume**
+
+...Okay.
+
+**Love -1**
+
+Four minutes later:
+
+**Yume**
+
+Sorry.
+
+**Yume**
+
+I really need to sleep.
+
+**Kazu**
+
+Fine.
+
+[[Continue->Kazu Arc - Day 5 - Night - End]]
+
+:: Kazu Arc - Day 5 - Night - End
+--
+**Yume is offline.**
+
+Kazu checks the time.
+
+22:21.
+
+He opens YumeChat again.
+
+Still offline.
+
+He puts the phone down.
+
+A minute later, he picks it up again.
+
+Still offline.
+
+He knows she is tired.
+
+He knows she said good night.
+
+Knowing does not make him like it.
+
+The phone stays in his hand.
+
+[[End Day 5->Kazu Arc - Day 5 Complete]]
+
+:: Kazu Arc - Day 5 Complete
+--
+# Day 5 Complete
+
+**Love: {love}**
+
+Yu-chan was calmer today.
+
+Yume asked whether Kazu remembered what she likes to eat.
+
+He had actually been told yesterday.
+
+Tomorrow is another day.
+
+[[Continue to Day 6->Kazu Arc - Day 6 - Morning]]

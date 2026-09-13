@@ -1,0 +1,648 @@
+:: Kazu Arc - Day 3 - Morning
+day: 3
+--
+# Day 3
+
+## 07:31 — Morning
+
+The phone lights up.
+
+**YumeChat — 1 new message**
+
+**Yume**
+
+Morning.
+
+**Yume**
+
+I got coffee.
+
+**Kazu**
+
+Congratulations.
+
+**Yume**
+
+Thank you.
+
+A pause.
+
+**Yume**
+
+You remember how I like it, right?
+
+[[Not too bitter.->Kazu Arc - Day 3 - Morning - Remembered]]
+[[Really bitter. Obviously.->Kazu Arc - Day 3 - Morning - Bitter]]
+[[I don't remember.->Kazu Arc - Day 3 - Morning - Forgot]]
+
+:: Kazu Arc - Day 3 - Morning - Remembered
+love: love + 1
+--
+**Kazu**
+
+Not too bitter.
+
+A pause.
+
+**Yume**
+
+You remembered.
+
+**Kazu**
+
+Of course.
+
+**Yume**
+
+Don't sound so proud 😂
+
+The laugh arrives quickly this time.
+
+**Love +1**
+
+[[Continue->Kazu Arc - Day 3 - Morning - Merge]]
+
+:: Kazu Arc - Day 3 - Morning - Bitter
+--
+**Kazu**
+
+Really bitter. Obviously.
+
+**Yume**
+
+No 😭
+
+**Yume**
+
+We talked about this yesterday.
+
+**Kazu**
+
+I was testing you.
+
+**Yume**
+
+Sure.
+
+[[Continue->Kazu Arc - Day 3 - Morning - Merge]]
+
+:: Kazu Arc - Day 3 - Morning - Forgot
+--
+**Kazu**
+
+I don't remember.
+
+A pause.
+
+**Yume**
+
+Oh.
+
+Another pause.
+
+**Yume**
+
+It's okay.
+
+**Yume**
+
+I said I don't like it really bitter.
+
+**Kazu**
+
+Right.
+
+**Yume**
+
+No angry coffee.
+
+[[Continue->Kazu Arc - Day 3 - Morning - Merge]]
+
+:: Kazu Arc - Day 3 - Morning - Merge
+--
+**Yume**
+
+This one is acceptable.
+
+**Kazu**
+
+High praise.
+
+**Yume**
+
+Very.
+
+**Yume**
+
+I should go.
+
+**Kazu**
+
+Talk later?
+
+A pause.
+
+**Yume**
+
+Probably.
+
+**Kazu**
+
+I'll take probably.
+
+**Yume**
+
+Okay.
+
+**Yume is offline.**
+
+A few hours later, another notification appears.
+
+Not YumeChat.
+
+**iChat — 3 new messages**
+
+[[Open iChat->Kazu Arc - Day 3 - iChat]]
+
+:: Kazu Arc - Day 3 - iChat
+--
+## 13:07 — iChat
+
+**Ren**
+
+hey
+
+**Ren**
+
+are you alive
+
+**Ren**
+
+you haven't shown up again
+
+[[I'm fine.->Kazu Arc - Day 3 - iChat - Fine]]
+[[Was busy.->Kazu Arc - Day 3 - iChat - Busy]]
+[[Stop checking on me.->Kazu Arc - Day 3 - iChat - Stop]]
+
+:: Kazu Arc - Day 3 - iChat - Fine
+--
+**Kazu**
+
+I'm fine.
+
+**Ren**
+
+great
+
+**Ren**
+
+very informative
+
+[[Continue->Kazu Arc - Day 3 - iChat - Yume]]
+
+:: Kazu Arc - Day 3 - iChat - Busy
+--
+**Kazu**
+
+Was busy.
+
+**Ren**
+
+yeah
+
+**Ren**
+
+you've been "busy" a lot lately
+
+[[Continue->Kazu Arc - Day 3 - iChat - Yume]]
+
+:: Kazu Arc - Day 3 - iChat - Stop
+--
+**Kazu**
+
+Stop checking on me.
+
+**Ren**
+
+lol
+
+**Ren**
+
+nice to see you too
+
+[[Continue->Kazu Arc - Day 3 - iChat - Yume]]
+
+:: Kazu Arc - Day 3 - iChat - Yume
+--
+A few seconds pass.
+
+**Ren**
+
+anyway
+
+**Ren**
+
+you've been weird lately
+
+**Ren**
+
+this isn't about Yume again, is it?
+
+Kazu stares at the name.
+
+[[Drop it.->Kazu Arc - Day 3 - iChat - Drop]]
+[[Why would you think that?->Kazu Arc - Day 3 - iChat - Why]]
+[[Don't talk about her.->Kazu Arc - Day 3 - iChat - Dont]]
+
+:: Kazu Arc - Day 3 - iChat - Drop
+--
+**Kazu**
+
+Drop it.
+
+**Ren**
+
+seriously?
+
+**Ren**
+
+after all this time?
+
+**Kazu**
+
+I said drop it.
+
+[[Continue->Kazu Arc - Day 3 - iChat - End]]
+
+:: Kazu Arc - Day 3 - iChat - Why
+--
+**Kazu**
+
+Why would you think that?
+
+**Ren**
+
+because i know you
+
+**Ren**
+
+and because you get like this whenever something reminds you of her
+
+A pause.
+
+**Kazu**
+
+You're imagining things.
+
+[[Continue->Kazu Arc - Day 3 - iChat - End]]
+
+:: Kazu Arc - Day 3 - iChat - Dont
+--
+**Kazu**
+
+Don't talk about her.
+
+A pause.
+
+**Ren**
+
+okay
+
+**Ren**
+
+that answers that
+
+**Kazu**
+
+It doesn't answer anything.
+
+[[Continue->Kazu Arc - Day 3 - iChat - End]]
+
+:: Kazu Arc - Day 3 - iChat - End
+--
+**Ren**
+
+look
+
+**Ren**
+
+i'm not trying to start that whole conversation again
+
+**Ren**
+
+just don't disappear on everyone, okay?
+
+Kazu does not answer immediately.
+
+Ren always does this.
+
+Takes something that is not his and starts asking questions about it.
+
+**Kazu**
+
+I won't.
+
+**Ren**
+
+👍
+
+[[Close iChat->Kazu Arc - Day 3 - Afternoon]]
+
+:: Kazu Arc - Day 3 - Afternoon
+--
+The home screen returns.
+
+**13:14**
+
+YumeChat sits near the bottom of the screen.
+
+No notification.
+
+Kazu does not open it.
+
+Not yet.
+
+* * *
+
+[[Continue->Kazu Arc - Day 3 - Evening]]
+
+:: Kazu Arc - Day 3 - Evening
+--
+## 18:52 — Evening
+
+The phone vibrates.
+
+**YumeChat — 2 new messages**
+
+**Yume**
+
+see
+
+**Yume sent a photo.**
+
+<img src="images/yume_day03_coffee.png" alt="A warm close-up photograph of Yume's coffee." style="display:block;max-width:100%;height:auto;margin:1rem auto;border-radius:12px;">
+
+**Yume**
+
+not angry coffee
+
+[[I remembered.->Kazu Arc - Day 3 - Evening - Remembered]]
+[[Looks good.->Kazu Arc - Day 3 - Evening - Looks]]
+[[Where are you?->Kazu Arc - Day 3 - Evening - Where]]
+
+:: Kazu Arc - Day 3 - Evening - Remembered
+--
+**Kazu**
+
+I remembered.
+
+**Yume**
+
+Yes.
+
+**Yume**
+
+You've been proud of that all day, haven't you?
+
+**Kazu**
+
+I deserve recognition.
+
+**Yume**
+
+For one coffee order?
+
+**Kazu**
+
+Exactly.
+
+**Yume**
+
+Amazing work, Kazu-kun.
+
+[[Continue->Kazu Arc - Day 3 - Evening - Photo]]
+
+:: Kazu Arc - Day 3 - Evening - Looks
+--
+**Kazu**
+
+Looks good.
+
+**Yume**
+
+It is.
+
+**Kazu**
+
+Better than yesterday?
+
+**Yume**
+
+Much.
+
+[[Continue->Kazu Arc - Day 3 - Evening - Photo]]
+
+:: Kazu Arc - Day 3 - Evening - Where
+--
+**Kazu**
+
+Where are you?
+
+A pause.
+
+**Yume**
+
+Home.
+
+**Kazu**
+
+Oh.
+
+A slightly longer pause.
+
+**Yume**
+
+I didn't go anywhere today.
+
+**Kazu**
+
+Just curious.
+
+**Yume**
+
+Okay.
+
+[[Continue->Kazu Arc - Day 3 - Evening - Photo]]
+
+:: Kazu Arc - Day 3 - Evening - Photo
+--
+**Kazu**
+
+You said you liked photography.
+
+**Yume**
+
+I said I like good photos.
+
+**Kazu**
+
+Is this one good?
+
+A pause.
+
+**Yume**
+
+It's okay.
+
+[[The light is nice.->Kazu Arc - Day 3 - Evening - Light]]
+[[Your hand is in it.->Kazu Arc - Day 3 - Evening - Hand]]
+[[Send me another one.->Kazu Arc - Day 3 - Evening - Another]]
+
+:: Kazu Arc - Day 3 - Evening - Light
+love: love + 1
+--
+**Kazu**
+
+The light is nice.
+
+A pause.
+
+**Yume**
+
+You noticed that?
+
+**Kazu**
+
+You said you like good photos.
+
+Another pause.
+
+**Yume**
+
+...Maybe you do listen sometimes.
+
+**Love +1**
+
+[[Continue->Kazu Arc - Day 3 - Evening - End]]
+
+:: Kazu Arc - Day 3 - Evening - Hand
+--
+**Kazu**
+
+Your hand is in it.
+
+**Yume**
+
+I know 😭
+
+**Kazu**
+
+Very artistic.
+
+**Yume**
+
+I was holding the cup, genius.
+
+The reply is immediate.
+
+[[Continue->Kazu Arc - Day 3 - Evening - End]]
+
+:: Kazu Arc - Day 3 - Evening - Another
+--
+**Kazu**
+
+Send me another one.
+
+A pause.
+
+**Yume**
+
+Maybe later.
+
+**Kazu**
+
+Why later?
+
+Another pause.
+
+**Yume**
+
+The light's gone now.
+
+**Kazu**
+
+Okay.
+
+[[Continue->Kazu Arc - Day 3 - Evening - End]]
+
+:: Kazu Arc - Day 3 - Evening - End
+--
+**Yume**
+
+I should go.
+
+**Kazu**
+
+Already?
+
+A pause.
+
+**Yume**
+
+Just for a while.
+
+**Yume**
+
+I'll talk to you later.
+
+**Kazu**
+
+Later, then.
+
+**Yume**
+
+Later.
+
+**Yume is offline.**
+
+[[Continue->Kazu Arc - Day 3 - Night]]
+
+:: Kazu Arc - Day 3 - Night
+--
+## 22:43 — Night
+
+No new messages.
+
+Kazu opens YumeChat anyway.
+
+The coffee photo is still there.
+
+He looks at it for a few seconds.
+
+Then closes the app.
+
+On the home screen:
+
+**YumeChat**
+
+**iChat**
+
+Two small icons beside each other.
+
+Kazu locks the phone.
+
+[[End Day 3->Kazu Arc - Day 3 Complete]]
+
+:: Kazu Arc - Day 3 Complete
+--
+# Day 3 Complete
+
+**Love: {love}**
+
+Yume noticed that Kazu remembered something she had actually told him.
+
+Later, she sent him a photo.
+
+Someone outside YumeChat also noticed Kazu had been disappearing.
+
+[[Continue to Day 4->Kazu Arc - Day 4 - Morning]]

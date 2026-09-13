@@ -1,0 +1,1178 @@
+:: Day 2 - Morning
+--
+
+# Day 2
+
+## 07:26 — Morning
+
+The phone vibrates.
+
+**YumeChat — 1 new message**
+
+**Yume**
+
+Morning.
+
+**Yume**
+
+You're awake, right?
+
+[[I am now.->Day 2 - Morning - Awake]]
+[[Morning, Yume.->Day 2 - Morning - Normal]]
+[[Were you waiting for me?->Day 2 - Morning - Waiting]]
+
+
+:: Day 2 - Morning - Awake
+--
+
+**Kazu**
+
+I am now.
+
+**Yume**
+
+Did I wake you?
+
+**Kazu**
+
+Maybe.
+
+**Yume**
+
+Oops.
+
+**Kazu**
+
+It's okay.
+
+**Yume**
+
+Good.
+
+[[Continue->Day 2 - Morning - Sleep]]
+
+
+:: Day 2 - Morning - Normal
+--
+
+**Kazu**
+
+Morning, Yume.
+
+**Yume**
+
+You sound awake.
+
+**Kazu**
+
+I'm very convincing over text.
+
+**Yume**
+
+Apparently.
+
+[[Continue->Day 2 - Morning - Sleep]]
+
+
+:: Day 2 - Morning - Waiting
+--
+
+**Kazu**
+
+Were you waiting for me?
+
+**Yume**
+
+No.
+
+**Kazu**
+
+That was fast.
+
+**Yume**
+
+You asked an easy question.
+
+[[Continue->Day 2 - Morning - Sleep]]
+
+
+:: Day 2 - Morning - Sleep
+--
+
+**Yume**
+
+I didn't sleep enough again.
+
+**Kazu**
+
+Again?
+
+**Yume**
+
+Don't judge me.
+
+[[What kept you awake?->Day 2 - Morning - Awake Reason]]
+[[You should sleep earlier.->Day 2 - Morning - Advice]]
+[[You could have messaged me.->Day 2 - Morning - Message Me]]
+
+
+:: Day 2 - Morning - Awake Reason
+--
+
+**Kazu**
+
+What kept you awake?
+
+**Yume**
+
+Nothing.
+
+**Kazu**
+
+Nothing kept you awake?
+
+**Yume**
+
+You know what I mean.
+
+**Yume**
+
+My brain wouldn't shut up.
+
+**Kazu**
+
+About anything important?
+
+A pause.
+
+**Yume**
+
+Not really.
+
+[[Continue->Day 2 - Morning - Coffee]]
+
+
+:: Day 2 - Morning - Advice
+--
+
+**Kazu**
+
+You should sleep earlier.
+
+**Yume**
+
+Wow.
+
+**Yume**
+
+Why didn't I think of that?
+
+**Kazu**
+
+I'm here to help.
+
+**Yume**
+
+Thank you, doctor.
+
+[[Continue->Day 2 - Morning - Coffee]]
+
+
+:: Day 2 - Morning - Message Me
+--
+
+**Kazu**
+
+You could have messaged me.
+
+A short pause.
+
+**Yume**
+
+At two in the morning?
+
+**Kazu**
+
+Sure.
+
+**Yume**
+
+You'd regret saying that.
+
+**Kazu**
+
+Maybe.
+
+**Yume**
+
+I'll remember that.
+
+[[Continue->Day 2 - Morning - Coffee]]
+
+
+:: Day 2 - Morning - Coffee
+--
+
+**Yume**
+
+Anyway.
+
+**Yume**
+
+I need something with caffeine.
+
+**Kazu**
+
+Coffee?
+
+**Yume**
+
+Probably.
+
+**Yume**
+
+But not that really bitter stuff.
+
+**Yume**
+
+I don't understand how people drink that.
+
+[[So you like sweet coffee?->Day 2 - Morning - Sweet Coffee]]
+[[Bitter coffee is the best kind.->Day 2 - Morning - Bitter Coffee]]
+[[I'll remember: no angry coffee.->Day 2 - Morning - Angry Coffee]]
+
+
+:: Day 2 - Morning - Sweet Coffee
+--
+
+**Kazu**
+
+So you like sweet coffee?
+
+**Yume**
+
+Not super sweet.
+
+**Yume**
+
+Just...
+
+**Yume**
+
+coffee that doesn't taste angry.
+
+**Kazu**
+
+Angry coffee?
+
+**Yume**
+
+You know exactly what I mean.
+
+[[Continue->Day 2 - Morning End]]
+
+
+:: Day 2 - Morning - Bitter Coffee
+--
+
+**Kazu**
+
+Bitter coffee is the best kind.
+
+**Yume**
+
+Then you can have mine.
+
+**Kazu**
+
+Deal.
+
+**Yume**
+
+Good.
+
+[[Continue->Day 2 - Morning End]]
+
+
+:: Day 2 - Morning - Angry Coffee
+--
+
+**Kazu**
+
+I'll remember.
+
+**Yume**
+
+Remember what?
+
+**Kazu**
+
+No angry coffee.
+
+**Yume**
+
+...
+
+**Yume**
+
+That's not what I said.
+
+**Kazu**
+
+Close enough.
+
+**Yume**
+
+😂
+
+[[Continue->Day 2 - Morning End]]
+
+
+:: Day 2 - Morning End
+--
+
+**Yume**
+
+I have to go.
+
+**Kazu**
+
+Get some coffee.
+
+**Yume**
+
+Non-angry coffee.
+
+**Kazu**
+
+Exactly.
+
+**Yume**
+
+Bye, Kazu-kun.
+
+**Yume is offline.**
+
+* * *
+
+Time passes.
+
+[[18:41 — Check YumeChat->Day 2 - Evening]]
+
+
+:: Day 2 - Evening
+--
+
+## 18:41 — Evening
+
+**YumeChat — 1 new message**
+
+**Yume**
+
+Question.
+
+[[That sounds dangerous.->Day 2 - Evening - Dangerous]]
+[[Ask me anything.->Day 2 - Evening - Anything]]
+[[I charge per question.->Day 2 - Evening - Charge]]
+
+
+:: Day 2 - Evening - Dangerous
+--
+
+**Kazu**
+
+That sounds dangerous.
+
+**Yume**
+
+It's not.
+
+**Yume**
+
+Probably.
+
+[[Continue->Day 2 - Evening - Talent]]
+
+
+:: Day 2 - Evening - Anything
+--
+
+**Kazu**
+
+Ask me anything.
+
+**Yume**
+
+That's a dangerous offer.
+
+[[Continue->Day 2 - Evening - Talent]]
+
+
+:: Day 2 - Evening - Charge
+--
+
+**Kazu**
+
+I charge per question.
+
+**Yume**
+
+Never mind.
+
+**Kazu**
+
+First one's free.
+
+**Yume**
+
+How generous.
+
+[[Continue->Day 2 - Evening - Talent]]
+
+
+:: Day 2 - Evening - Talent
+--
+
+**Yume**
+
+If you could be really good at one thing...
+
+**Yume**
+
+Like, ridiculously good.
+
+**Yume**
+
+What would you choose?
+
+[[Something useful. Maybe cooking.->Day 2 - Evening - Cooking]]
+[[Music.->Day 2 - Evening - Music]]
+[[Making girls fall in love with me.->Day 2 - Evening - Love Talent]]
+
+
+:: Day 2 - Evening - Cooking
+--
+
+**Kazu**
+
+Something useful.
+
+**Kazu**
+
+Maybe cooking.
+
+**Yume**
+
+Cooking?
+
+**Kazu**
+
+You have to eat every day.
+
+**Yume**
+
+That's annoyingly sensible.
+
+**Kazu**
+
+What would you pick?
+
+**Yume**
+
+Something less sensible.
+
+[[Continue->Day 2 - Evening - Photography]]
+
+
+:: Day 2 - Evening - Music
+--
+
+**Kazu**
+
+Music.
+
+**Yume**
+
+Play or write?
+
+**Kazu**
+
+Write, I think.
+
+**Yume**
+
+Why?
+
+**Kazu**
+
+It'd be nice to make something that makes people feel something.
+
+A pause.
+
+**Yume**
+
+That's actually a good answer.
+
+**Kazu**
+
+Actually?
+
+**Yume**
+
+Don't ruin it.
+
+[[Continue->Day 2 - Evening - Photography]]
+
+
+:: Day 2 - Evening - Love Talent
+--
+
+**Kazu**
+
+Making girls fall in love with me.
+
+**Yume**
+
+...
+
+**Yume**
+
+You'd need the practice.
+
+**Kazu**
+
+Ouch.
+
+**Yume**
+
+You gave me the opportunity.
+
+[[Continue->Day 2 - Evening - Photography]]
+
+
+:: Day 2 - Evening - Photography
+--
+
+**Kazu**
+
+Okay, your turn.
+
+A short pause.
+
+**Yume**
+
+Photography, maybe.
+
+**Kazu**
+
+Photography?
+
+**Yume**
+
+Yeah.
+
+**Yume**
+
+Not professionally or anything.
+
+**Yume**
+
+I just like good photos.
+
+**Kazu**
+
+Photos of what?
+
+**Yume**
+
+People.
+
+**Yume**
+
+Places.
+
+**Yume**
+
+Things I want to remember.
+
+[[You take a lot of photos?->Day 2 - Evening - Photos]]
+[[You should show me some sometime.->Day 2 - Evening - Show Me]]
+[[You'd make a good model too.->Day 2 - Evening - Model]]
+
+
+:: Day 2 - Evening - Photos
+--
+
+**Kazu**
+
+You take a lot of photos?
+
+**Yume**
+
+Not really.
+
+**Yume**
+
+I delete most of them.
+
+**Kazu**
+
+Why?
+
+**Yume**
+
+Because most of them are bad?
+
+**Kazu**
+
+Fair.
+
+[[Continue->Day 2 - Evening - Keep Photos]]
+
+
+:: Day 2 - Evening - Show Me
+--
+
+**Kazu**
+
+You should show me some sometime.
+
+**Yume**
+
+Maybe.
+
+**Kazu**
+
+That's not a no.
+
+**Yume**
+
+It's also not a yes.
+
+[[Continue->Day 2 - Evening - Keep Photos]]
+
+
+:: Day 2 - Evening - Model
+--
+
+**Kazu**
+
+You'd make a good model too.
+
+**Yume**
+
+We're talking about taking photos.
+
+**Kazu**
+
+I know.
+
+**Yume**
+
+Then stay on topic.
+
+[[Continue->Day 2 - Evening - Keep Photos]]
+
+
+:: Day 2 - Evening - Keep Photos
+--
+
+**Yume**
+
+What about you?
+
+**Yume**
+
+Do you keep photos?
+
+[[Only the important ones.->Day 2 - Evening - Important]]
+[[I keep almost everything.->Day 2 - Evening - Everything]]
+[[I'd keep yours.->Day 2 - Evening - Yours]]
+
+
+:: Day 2 - Evening - Important
+love: love + 1
+--
+
+**Kazu**
+
+Only the important ones.
+
+**Yume**
+
+How do you know what's important?
+
+**Kazu**
+
+I guess you don't until later.
+
+A pause.
+
+**Yume**
+
+Hmm.
+
+**Yume**
+
+I like that answer.
+
+**Love +1**
+
+[[Continue->Day 2 - Evening End]]
+
+
+:: Day 2 - Evening - Everything
+--
+
+**Kazu**
+
+I keep almost everything.
+
+**Yume**
+
+Your phone must be a mess.
+
+**Kazu**
+
+Organized chaos.
+
+**Yume**
+
+That's what messy people call mess.
+
+[[Continue->Day 2 - Evening End]]
+
+
+:: Day 2 - Evening - Yours
+--
+
+**Kazu**
+
+I'd keep yours.
+
+**Yume**
+
+Kazu-kun.
+
+**Kazu**
+
+What?
+
+**Yume**
+
+You really can't help yourself, can you?
+
+[[Continue->Day 2 - Evening End]]
+
+
+:: Day 2 - Evening End
+--
+
+**Yume**
+
+Maybe I'll send you one sometime.
+
+**Kazu**
+
+A photo?
+
+**Yume**
+
+Maybe.
+
+**Kazu**
+
+You said maybe twice.
+
+**Yume**
+
+Then you have two maybes.
+
+**Kazu**
+
+Do they combine into a yes?
+
+**Yume**
+
+No.
+
+**Kazu**
+
+Worth trying.
+
+**Yume**
+
+😂
+
+**Yume is offline.**
+
+* * *
+
+The evening passes.
+
+[[22:17 — Check YumeChat->Day 2 - Night]]
+
+
+:: Day 2 - Night
+--
+
+## 22:17 — Night
+
+The phone lights up.
+
+**YumeChat — 1 new message**
+
+**Yume**
+
+Kazu-kun.
+
+**Yume**
+
+Are you still awake?
+
+[[Yeah. What's up?->Day 2 - Night - Whats Up]]
+[[Barely.->Day 2 - Night - Barely]]
+[[For you? Always.->Day 2 - Night - Always]]
+
+
+:: Day 2 - Night - Whats Up
+--
+
+**Kazu**
+
+Yeah. What's up?
+
+**Yume**
+
+Nothing.
+
+**Kazu**
+
+You messaged me for nothing?
+
+**Yume**
+
+Is that illegal?
+
+**Kazu**
+
+I'll allow it.
+
+[[Continue->Day 2 - Night - Wondering]]
+
+
+:: Day 2 - Night - Barely
+--
+
+**Kazu**
+
+Barely.
+
+**Yume**
+
+Then go to sleep.
+
+**Kazu**
+
+You messaged me.
+
+**Yume**
+
+And now I'm telling you to sleep.
+
+**Kazu**
+
+Mixed signals.
+
+**Yume**
+
+Not those kinds of signals.
+
+[[Continue->Day 2 - Night - Wondering]]
+
+
+:: Day 2 - Night - Always
+--
+
+**Kazu**
+
+For you? Always.
+
+A pause.
+
+**Yume**
+
+You're going to make that line very annoying eventually.
+
+**Kazu**
+
+Eventually?
+
+**Yume**
+
+Good night.
+
+**Kazu**
+
+Wait.
+
+**Yume**
+
+😂
+
+[[Continue->Day 2 - Night - Wondering]]
+
+
+:: Day 2 - Night - Wondering
+--
+
+**Yume**
+
+I was just wondering something.
+
+**Kazu**
+
+What?
+
+A pause.
+
+**Yume**
+
+Why do you talk to me so much?
+
+[[Because I like talking to you.->Day 2 - Night - Like Talking]]
+[[Because you're interesting.->Day 2 - Night - Interesting]]
+[[Because I like you.->Day 2 - Night - Like You]]
+
+
+:: Day 2 - Night - Like Talking
+--
+
+**Kazu**
+
+Because I like talking to you.
+
+A pause.
+
+**Yume**
+
+Okay.
+
+**Kazu**
+
+That's it?
+
+**Yume**
+
+What am I supposed to say?
+
+**Kazu**
+
+I don't know.
+
+**Yume**
+
+Then okay.
+
+[[Continue->Day 2 - Night - Sleep]]
+
+
+:: Day 2 - Night - Interesting
+love: love + 1
+--
+
+**Kazu**
+
+Because you're interesting.
+
+**Yume**
+
+Am I?
+
+**Kazu**
+
+Yeah.
+
+**Yume**
+
+You don't know me that well.
+
+**Kazu**
+
+That's why I'm talking to you.
+
+A pause.
+
+**Yume**
+
+Fair.
+
+**Love +1**
+
+[[Continue->Day 2 - Night - Sleep]]
+
+
+:: Day 2 - Night - Like You
+--
+
+**Kazu**
+
+Because I like you.
+
+A longer pause.
+
+**Yume**
+
+I know.
+
+**Kazu**
+
+You know?
+
+**Yume**
+
+You're not exactly subtle.
+
+**Kazu**
+
+Is that bad?
+
+**Yume**
+
+I didn't say that.
+
+**Yume**
+
+But don't expect anything just because you like me, okay?
+
+[[Okay.->Day 2 - Night - Respect]]
+[[I'll change your mind.->Day 2 - Night - Push]]
+
+
+:: Day 2 - Night - Respect
+--
+
+**Kazu**
+
+Okay.
+
+**Yume**
+
+Good.
+
+[[Continue->Day 2 - Night - Sleep]]
+
+
+:: Day 2 - Night - Push
+love: love - 1
+--
+
+**Kazu**
+
+I'll change your mind.
+
+A pause.
+
+**Yume**
+
+That's not what I meant.
+
+**Love -1**
+
+[[Continue->Day 2 - Night - Sleep]]
+
+
+:: Day 2 - Night - Sleep
+--
+
+**Yume**
+
+Anyway.
+
+**Yume**
+
+I'm going to sleep.
+
+**Kazu**
+
+Before 2 AM?
+
+**Yume**
+
+I'm trying something new.
+
+**Kazu**
+
+Very adventurous.
+
+**Yume**
+
+Good night, Kazu-kun.
+
+[[Good night, Yume.->Day 2 - Night - Goodnight]]
+[[Sleep well.->Day 2 - Night - Sleep Well]]
+[[Don't let your brain keep you awake.->Day 2 - Night - Brain]]
+
+
+:: Day 2 - Night - Goodnight
+--
+
+**Kazu**
+
+Good night, Yume.
+
+**Yume**
+
+Night.
+
+[[End Day 2->Day 2 Complete]]
+
+
+:: Day 2 - Night - Sleep Well
+--
+
+**Kazu**
+
+Sleep well.
+
+**Yume**
+
+You too.
+
+[[End Day 2->Day 2 Complete]]
+
+
+:: Day 2 - Night - Brain
+--
+
+**Kazu**
+
+Don't let your brain keep you awake.
+
+A pause.
+
+**Yume**
+
+I'll tell it you said so.
+
+**Kazu**
+
+That should work.
+
+**Yume**
+
+Definitely.
+
+[[End Day 2->Day 2 Complete]]
+
+
+:: Day 2 Complete
+--
+
+# Day 2 Complete
+
+The screen goes quiet.
+
+**Love: {love}**
+
+[[Continue to Day 3->Day 3 - Morning]]

@@ -1,0 +1,679 @@
+:: Kazu Arc - Day 1 - Morning
+love: 0
+day: 1
+config.footer.right: '[[⚙ DEV->System - Dev Menu]]'
+--
+
+# Day 1
+
+## 07:12
+
+A phone screen lights up.
+
+There is one app Kazu checks more often than he wants to admit.
+
+**YumeChat**
+
+A private chat app he made himself.
+
+Only two accounts exist.
+
+**Kazu**
+**Yume**
+
+Yume is the reason the app exists.
+
+Kazu likes her.
+
+He has for a while.
+
+He hasn't properly told her.
+
+Instead, he told Yume he wanted somewhere quieter for the two of them to talk.
+
+She agreed.
+
+Somehow.
+
+They aren't dating.
+
+They aren't even especially close yet.
+
+But Yume keeps replying.
+
+For Kazu, that's enough reason to hope.
+
+* * *
+
+**LOVE: {love}**
+
+**Get closer to Yume.**
+
+* * *
+
+The phone vibrates.
+
+**YumeChat — 1 new message**
+
+Kazu opens it immediately.
+
+**Yume is online.**
+
+**Yume**
+
+Morning.
+
+**Yume**
+
+You're awake early.
+
+[[Morning, Yume.->Kazu Arc - Day 1 - Morning - Normal]]
+
+[[I was waiting for you.->Kazu Arc - Day 1 - Morning - Waiting]]
+
+[[Morning. You look cute today.->Kazu Arc - Day 1 - Morning - Cute]]
+
+:: Kazu Arc - Day 1 - Morning - Normal
+--
+
+**Kazu**
+
+Morning, Yume.
+
+**Yume**
+
+Morning :)
+
+[[Continue->Kazu Arc - Day 1 - Morning - Merge]]
+
+:: Kazu Arc - Day 1 - Morning - Waiting
+--
+
+**Kazu**
+
+I was waiting for you.
+
+**Yume**
+
+At seven in the morning?
+
+**Kazu**
+
+Maybe.
+
+**Yume**
+
+You're weird, Kazu-kun.
+
+[[Continue->Kazu Arc - Day 1 - Morning - Merge]]
+
+:: Kazu Arc - Day 1 - Morning - Cute
+--
+
+**Kazu**
+
+Morning. You look cute today.
+
+**Yume**
+
+You haven't even seen me today.
+
+**Kazu**
+
+I don't need to.
+
+**Yume**
+
+...
+
+**Yume**
+
+It's too early for this.
+
+[[Continue->Kazu Arc - Day 1 - Morning - Merge]]
+
+:: Kazu Arc - Day 1 - Morning - Merge
+--
+
+**Yume**
+
+Did you sleep okay?
+
+**Kazu**
+
+Yeah. You?
+
+**Yume**
+
+Mostly.
+
+**Yume**
+
+Stayed up later than I should have.
+
+**Kazu**
+
+Doing what?
+
+**Yume**
+
+Nothing interesting.
+
+A few seconds pass.
+
+**Yume**
+
+I should get ready.
+
+**Yume**
+
+Talk later?
+
+[[Sure. Have a good morning.->Kazu Arc - Day 1 - Morning - Goodbye]]
+[[Already leaving me?->Kazu Arc - Day 1 - Morning - Tease]]
+[[Don't be late.->Kazu Arc - Day 1 - Morning - Late]]
+
+:: Kazu Arc - Day 1 - Morning - Goodbye
+--
+
+**Kazu**
+
+Sure. Have a good morning.
+
+**Yume**
+
+You too.
+
+[[Continue->Kazu Arc - Day 1 - Morning End]]
+
+:: Kazu Arc - Day 1 - Morning - Tease
+--
+
+**Kazu**
+
+Already leaving me?
+
+**Yume**
+
+Kazu-kun. We've been talking for five minutes.
+
+**Kazu**
+
+Five good minutes.
+
+**Yume**
+
+Bye 😂
+
+[[Continue->Kazu Arc - Day 1 - Morning End]]
+
+:: Kazu Arc - Day 1 - Morning - Late
+--
+
+**Kazu**
+
+Don't be late.
+
+**Yume**
+
+Yes, mom.
+
+[[Continue->Kazu Arc - Day 1 - Morning End]]
+
+:: Kazu Arc - Day 1 - Morning End
+--
+
+**Yume is offline.**
+
+The screen goes quiet.
+
+Kazu returns to the home screen.
+
+Messages. Camera. Settings. iChat. YumeChat.
+
+No new notification.
+
+He checks YumeChat once anyway.
+
+Still nothing.
+
+Kazu locks the phone.
+
+* * *
+
+[[12:18 — Check YumeChat->Kazu Arc - Day 1 - Lunch]]
+
+:: Kazu Arc - Day 1 - Lunch
+--
+
+## 12:18 — Lunch
+
+The phone vibrates.
+
+**YumeChat — 1 new message**
+
+**Yume**
+
+Lunch?
+
+**Kazu**
+
+Yeah. You?
+
+**Yume**
+
+Trying to decide.
+
+**Yume**
+
+Noodles or rice.
+
+[[Noodles.->Kazu Arc - Day 1 - Lunch - Noodles]]
+[[Rice. Definitely.->Kazu Arc - Day 1 - Lunch - Rice]]
+[[Whichever one you actually want.->Kazu Arc - Day 1 - Lunch - Thoughtful]]
+
+:: Kazu Arc - Day 1 - Lunch - Noodles
+--
+
+**Kazu**
+
+Noodles.
+
+**Yume**
+
+That was fast.
+
+**Kazu**
+
+You asked.
+
+**Yume**
+
+Fair.
+
+[[Continue->Kazu Arc - Day 1 - Lunch - Merge]]
+
+:: Kazu Arc - Day 1 - Lunch - Rice
+--
+
+**Kazu**
+
+Rice. Definitely.
+
+**Yume**
+
+Why definitely?
+
+**Kazu**
+
+I have strong opinions about lunch.
+
+**Yume**
+
+Apparently.
+
+[[Continue->Kazu Arc - Day 1 - Lunch - Merge]]
+
+:: Kazu Arc - Day 1 - Lunch - Thoughtful
+love: love + 1
+--
+
+**Kazu**
+
+Whichever one you actually want.
+
+**Yume**
+
+That's not very helpful.
+
+**Kazu**
+
+You already know which one you want.
+
+A pause.
+
+**Yume**
+
+...Noodles.
+
+**Kazu**
+
+See?
+
+**Yume**
+
+Okay, okay.
+
+**Love +1**
+
+[[Continue->Kazu Arc - Day 1 - Lunch - Merge]]
+
+:: Kazu Arc - Day 1 - Lunch - Merge
+--
+
+**Yume**
+
+Noodles it is.
+
+**Yume**
+
+If they're bad, I'm blaming you.
+
+**Kazu**
+
+That's unfair.
+
+**Yume**
+
+Life is unfair.
+
+**Yume**
+
+I'll report back.
+
+**Yume is offline.**
+
+* * *
+
+[[17:34 — Check YumeChat->Kazu Arc - Day 1 - Evening]]
+
+:: Kazu Arc - Day 1 - Evening
+--
+
+## 17:34 — Evening
+
+**YumeChat — 1 new message**
+
+**Yume**
+
+I'm tired.
+
+**Kazu**
+
+Long day?
+
+**Yume**
+
+Kind of.
+
+**Yume**
+
+Nothing terrible. Just one of those days.
+
+**Yume**
+
+What do you do when you're tired of everything?
+
+[[Distract myself. Games, music, whatever.->Kazu Arc - Day 1 - Evening - Distract]]
+[[Usually I talk to someone.->Kazu Arc - Day 1 - Evening - Talk]]
+[[You can complain to me if you want.->Kazu Arc - Day 1 - Evening - Listen]]
+
+:: Kazu Arc - Day 1 - Evening - Distract
+--
+
+**Kazu**
+
+Distract myself. Games, music, whatever.
+
+**Yume**
+
+That's probably healthier than what I do.
+
+**Kazu**
+
+What do you do?
+
+**Yume**
+
+Complain.
+
+**Kazu**
+
+You're doing great then.
+
+**Yume**
+
+Shut up 😂
+
+[[Continue->Kazu Arc - Day 1 - Evening - Merge]]
+
+:: Kazu Arc - Day 1 - Evening - Talk
+--
+
+**Kazu**
+
+Usually I talk to someone.
+
+**Yume**
+
+Does it help?
+
+**Kazu**
+
+Sometimes.
+
+**Kazu**
+
+Depends who's listening.
+
+**Yume**
+
+Hmm.
+
+[[Continue->Kazu Arc - Day 1 - Evening - Merge]]
+
+:: Kazu Arc - Day 1 - Evening - Listen
+love: love + 1
+--
+
+**Kazu**
+
+You can complain to me if you want.
+
+**Yume**
+
+About what?
+
+**Kazu**
+
+Anything.
+
+**Yume**
+
+You might regret saying that.
+
+**Kazu**
+
+Try me.
+
+A pause.
+
+**Yume**
+
+Maybe another time.
+
+**Yume**
+
+But thanks.
+
+**Love +1**
+
+[[Continue->Kazu Arc - Day 1 - Evening - Merge]]
+
+:: Kazu Arc - Day 1 - Evening - Merge
+--
+
+A few minutes later:
+
+**Yume**
+
+Anyway. I'm going to disappear for a while.
+
+**Kazu**
+
+Okay.
+
+**Yume**
+
+Don't sound so devastated.
+
+**Kazu**
+
+I'll survive somehow.
+
+**Yume**
+
+Be strong.
+
+**Yume is offline.**
+
+The phone stays quiet for a while.
+
+* * *
+
+[[22:06 — Check YumeChat->Kazu Arc - Day 1 - Night]]
+
+:: Kazu Arc - Day 1 - Night
+--
+
+## 22:06 — Night
+
+The phone vibrates.
+
+**YumeChat — 1 new message**
+
+**Yume**
+
+Still awake?
+
+**Kazu**
+
+Yeah.
+
+**Yume**
+
+Today was nice.
+
+**Kazu**
+
+The noodles?
+
+**Yume**
+
+They were okay.
+
+**Yume**
+
+I meant talking.
+
+[[I liked talking to you too.->Kazu Arc - Day 1 - Night - Like]]
+[[We should do it again tomorrow.->Kazu Arc - Day 1 - Night - Tomorrow]]
+[[So you like me already?->Kazu Arc - Day 1 - Night - Push]]
+
+:: Kazu Arc - Day 1 - Night - Like
+--
+
+**Kazu**
+
+I liked talking to you too.
+
+**Yume**
+
+:)
+
+[[Continue->Kazu Arc - Day 1 - Night - Goodnight]]
+
+:: Kazu Arc - Day 1 - Night - Tomorrow
+--
+
+**Kazu**
+
+We should do it again tomorrow.
+
+**Yume**
+
+Probably.
+
+**Kazu**
+
+Probably?
+
+**Yume**
+
+Don't get greedy.
+
+[[Continue->Kazu Arc - Day 1 - Night - Goodnight]]
+
+:: Kazu Arc - Day 1 - Night - Push
+love: love - 1
+--
+
+**Kazu**
+
+So you like me already?
+
+**Yume**
+
+I said talking to you was nice.
+
+**Yume**
+
+Don't rewrite the sentence.
+
+**Love -1**
+
+[[Continue->Kazu Arc - Day 1 - Night - Goodnight]]
+
+:: Kazu Arc - Day 1 - Night - Goodnight
+--
+
+**Yume**
+
+Good night, Kazu-kun.
+
+**Kazu**
+
+Good night, Yume.
+
+**Yume**
+
+Night.
+
+**Yume is offline.**
+
+Kazu waits.
+
+No new notification.
+
+He checks YumeChat once anyway.
+
+Still nothing.
+
+It doesn't bother him.
+
+Not really.
+
+She keeps replying.
+
+That's enough for now.
+
+[[End Day 1->Kazu Arc - Day 1 Complete]]
+
+:: Kazu Arc - Day 1 Complete
+--
+
+# Day 1 Complete
+
+**Love: {love}**
+
+Yume talked to Kazu several times today.
+
+She brushed off his flirting.
+
+She left when she wanted to.
+
+She came back at night because she felt like talking.
+
+For now, that is enough.
+
+[[Continue to Day 2->Kazu Arc - Day 2 - Morning]]

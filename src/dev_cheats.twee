@@ -1,0 +1,22 @@
+:: System - Dev Menu
+--
+# Developer Menu
+
+**Day:** {day}  
+**Love:** {love}
+
+Jump directly to a day.  
+These jumps keep the current story state unless the destination passage itself changes it.
+
+[[Day 1->Kazu Arc - Day 1 - Morning]]
+[[Day 2->Kazu Arc - Day 2 - Morning]]
+[[Day 3->Kazu Arc - Day 3 - Morning]]
+[[Day 4->Kazu Arc - Day 4 - Morning]]
+[[Day 5->Kazu Arc - Day 5 - Morning]]
+[[Day 6->Kazu Arc - Day 6 - Morning]]
+
+* * *
+
+{restart link, label: 'Reset everything'}
+
+{back link, label: 'Back to previous passage'}
