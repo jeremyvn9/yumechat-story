@@ -1,7 +1,6 @@
 :: Kazu Arc - Day 1 - Morning
 love: 0
 day: 1
-config.footer.right: '[[⚙ DEV->System - Dev Menu]]'
 --
 
 # Day 1
@@ -10,52 +9,9 @@ config.footer.right: '[[⚙ DEV->System - Dev Menu]]'
 
 A phone screen lights up.
 
-There is one app Kazu checks more often than he wants to admit.
-
-**YumeChat**
-
-A private chat app he made himself.
-
-Only two accounts exist.
-
-**Kazu**
-**Yume**
-
-Yume is the reason the app exists.
-
-Kazu likes her.
-
-He has for a while.
-
-He hasn't properly told her.
-
-Instead, he told Yume he wanted somewhere quieter for the two of them to talk.
-
-She agreed.
-
-Somehow.
-
-They aren't dating.
-
-They aren't even especially close yet.
-
-But Yume keeps replying.
-
-For Kazu, that's enough reason to hope.
-
-* * *
-
-**LOVE: {love}**
-
-**Get closer to Yume.**
-
-* * *
-
-The phone vibrates.
-
 **YumeChat — 1 new message**
 
-Kazu opens it immediately.
+Kazu picks it up before the vibration stops.
 
 **Yume is online.**
 
@@ -67,10 +23,26 @@ Morning.
 
 You're awake early.
 
+Kazu types:
+
+`Morning :)`
+
+He looks at the smiley for a second.
+
+Deletes it.
+
+The cursor blinks.
+
+* * *
+
+**LOVE: {love}**
+
+**Get closer to Yume.**
+
+* * *
+
 [[Morning, Yume.->Kazu Arc - Day 1 - Morning - Normal]]
-
 [[I was waiting for you.->Kazu Arc - Day 1 - Morning - Waiting]]
-
 [[Morning. You look cute today.->Kazu Arc - Day 1 - Morning - Cute]]
 
 :: Kazu Arc - Day 1 - Morning - Normal
@@ -402,7 +374,7 @@ Nothing terrible. Just one of those days.
 
 **Yume**
 
-What do you do when you're tired of everything?
+What do you do when you've had a really long day?
 
 [[Distract myself. Games, music, whatever.->Kazu Arc - Day 1 - Evening - Distract]]
 [[Usually I talk to someone.->Kazu Arc - Day 1 - Evening - Talk]]
@@ -566,16 +538,22 @@ They were okay.
 
 I meant talking.
 
-[[I liked talking to you too.->Kazu Arc - Day 1 - Night - Like]]
+[[Yeah, I had fun too.->Kazu Arc - Day 1 - Night - Like]]
 [[We should do it again tomorrow.->Kazu Arc - Day 1 - Night - Tomorrow]]
-[[So you like me already?->Kazu Arc - Day 1 - Night - Push]]
+[[You could've just said that.->Kazu Arc - Day 1 - Night - Push]]
 
 :: Kazu Arc - Day 1 - Night - Like
 --
 
 **Kazu**
 
-I liked talking to you too.
+Yeah, I had fun too.
+
+A pause.
+
+**Yume**
+
+Good.
 
 **Yume**
 
@@ -590,37 +568,46 @@ I liked talking to you too.
 
 We should do it again tomorrow.
 
+A pause.
+
 **Yume**
 
-Probably.
+Maybe.
 
 **Kazu**
 
-Probably?
+Maybe?
+
+Another pause.
 
 **Yume**
 
-Don't get greedy.
+I think so.
 
 [[Continue->Kazu Arc - Day 1 - Night - Goodnight]]
 
 :: Kazu Arc - Day 1 - Night - Push
-love: love - 1
 --
 
 **Kazu**
 
-So you like me already?
+You could've just said that.
+
+A pause.
 
 **Yume**
 
-I said talking to you was nice.
+I did.
+
+Another pause.
 
 **Yume**
 
-Don't rewrite the sentence.
+Just now.
 
-**Love -1**
+**Kazu**
+
+Right.
 
 [[Continue->Kazu Arc - Day 1 - Night - Goodnight]]
 
@@ -649,13 +636,17 @@ He checks YumeChat once anyway.
 
 Still nothing.
 
-It doesn't bother him.
+He locks the phone.
 
-Not really.
+A few seconds pass.
 
-She keeps replying.
+He unlocks it again.
 
-That's enough for now.
+YumeChat.
+
+Nothing.
+
+He sighs and puts the phone down.
 
 [[End Day 1->Kazu Arc - Day 1 Complete]]
 
@@ -665,15 +656,5 @@ That's enough for now.
 # Day 1 Complete
 
 **Love: {love}**
-
-Yume talked to Kazu several times today.
-
-She brushed off his flirting.
-
-She left when she wanted to.
-
-She came back at night because she felt like talking.
-
-For now, that is enough.
 
 [[Continue to Day 2->Kazu Arc - Day 2 - Morning]]
